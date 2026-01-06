@@ -1,0 +1,169 @@
+[00:00:22] [Server thread/INFO]: Freschiii was slain by Zombie
+[00:00:29] [Server thread/INFO]: Freschiii claimed a grave belonging to Freschiii at -294, -6, -71, minecraft:overworld
+[00:01:30] [Server thread/INFO]: redvenomgames has completed the challenge [Centennial]
+[00:01:31] [Server thread/INFO]: Celomarzin lost connection: Disconnected
+[00:01:31] [Server thread/INFO]: Celomarzin left the game
+[00:01:31] [Server thread/INFO]: remove player wand
+[00:01:31] [Server thread/INFO]: [voicechat] Disconnecting client Celomarzin
+[00:02:48] [Server thread/WARN]: Couldn't set damage of loot item 1 minecraft:golden_horse_armor
+[00:03:04] [Server thread/WARN]: MendigoRoxo moved too quickly! 7.68421804103334,0.42355929454303975,-6.514499998229454
+[00:03:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3774ms or 75 ticks behind
+[00:08:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[00:10:21] [Server thread/INFO]: Freschiii was slain by Spider
+[00:10:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-108, y=78, z=2278} class_2338{x=-108, y=76, z=2278}
+[00:10:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-108, y=78, z=2278} class_2338{x=-108, y=76, z=2278}
+[00:13:08] [Server thread/WARN]: Xabirau moved too quickly! -7.562262189244166,1.0638359791121417,6.803539316883914
+[00:13:08] [Server thread/WARN]: redvenomgames moved too quickly! -9.371881777065752,3.750740823269929,1.0246715158374684
+[00:13:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2590ms or 51 ticks behind
+[00:13:14] [Server thread/INFO]: Freschiii claimed a grave belonging to Freschiii at -284, -14, -65, minecraft:overworld
+[00:14:24] [Server thread/INFO]: kkojii lost connection: Disconnected
+[00:14:24] [Server thread/INFO]: kkojii left the game
+[00:14:24] [Server thread/INFO]: remove player wand
+[00:14:24] [Server thread/INFO]: [voicechat] Disconnecting client kkojii
+[00:16:05] [Server thread/WARN]: Xabirau moved too quickly! 9.810049576919525,1.0244240882136921,-1.7925217458475373
+[00:16:12] [Server thread/INFO]: MendigoRoxo lost connection: Disconnected
+[00:16:12] [Server thread/INFO]: MendigoRoxo left the game
+[00:16:12] [Server thread/INFO]: remove player wand
+[00:16:12] [Server thread/INFO]: [voicechat] Disconnecting client MendigoRoxo
+[00:16:12] [Server thread/WARN]: handleDisconnection() called twice
+[00:18:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2709ms or 54 ticks behind
+[00:35:18] [Server thread/INFO]: Freschiii fell from a high place
+[00:35:23] [Server thread/INFO]: Freschiii claimed a grave belonging to Freschiii at -113, 69, -8, minecraft:overworld
+[00:40:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3593ms or 71 ticks behind
+[00:41:52] [Worker-Main-12/ERROR]: Block-attached entity at invalid position: class_2338{x=1375, y=118, z=681}
+[00:41:52] [Worker-Main-12/ERROR]: Block-attached entity at invalid position: class_2338{x=1367, y=118, z=679}
+[00:43:18] [Server thread/WARN]: redvenomgames moved too quickly! -8.14439704869983,-3.250629990594817,5.407595199158095
+[00:43:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3143ms or 62 ticks behind
+[00:45:07] [Server thread/INFO]: redvenomgames has made the advancement [Sweet Dreams]
+[00:45:18] [Server thread/INFO]: JPD_211 lost connection: Disconnected
+[00:45:18] [Server thread/INFO]: JPD_211 left the game
+[00:45:19] [Server thread/INFO]: remove player wand
+[00:45:19] [Server thread/INFO]: [voicechat] Disconnecting client JPD_211
+[00:47:30] [Server thread/WARN]: redvenomgames moved too quickly! 9.900831004975771,0.7501051039408537,2.011545305656
+[00:48:31] [Server thread/INFO]: JPD_211[/127.228.172.113:60835] logged in with entity id 95771 at (-227.69999998807907, 44.0, 99.48536215216504)
+[00:48:31] [Server thread/INFO]: Sending server config values to client
+[00:48:31] [Server thread/INFO]: JPD_211 joined the game
+[00:48:31] [Server thread/INFO]: add_player wand
+[00:48:31] [Server thread/INFO]: player_data {}
+[00:48:31] [Server thread/INFO]: Sending item configs to client
+[00:48:32] [Server thread/INFO]: [voicechat] Received secret request of JPD_211 (20)
+[00:48:32] [Server thread/INFO]: [voicechat] Sent secret to JPD_211
+[00:48:32] [Server thread/INFO]: Priority overwritten for player JPD_211. Claiming: GRAVE / Robbing: INVENTORY
+[00:48:33] [Server thread/INFO]: Receiving client config
+[00:48:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 80793566-95cb-3655-af9d-93842bdbc4cb
+[00:48:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 80793566-95cb-3655-af9d-93842bdbc4cb
+[00:48:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player JPD_211 (80793566-95cb-3655-af9d-93842bdbc4cb) successfully connected to voice chat
+[00:51:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 80793566-95cb-3655-af9d-93842bdbc4cb timed out
+[00:51:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player JPD_211
+[00:51:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to JPD_211
+[00:51:53] [Server thread/INFO]: JPD_211 lost connection: Disconnected
+[00:51:53] [Server thread/INFO]: JPD_211 left the game
+[00:51:53] [Server thread/INFO]: remove player wand
+[00:51:53] [Server thread/INFO]: [voicechat] Disconnecting client JPD_211
+[00:54:00] [Server thread/INFO]: thaisgamer[/127.205.96.20:37399] logged in with entity id 98752 at (-5.5, 78.0, 4.5)
+[00:54:00] [Server thread/INFO]: Sending server config values to client
+[00:54:00] [Server thread/INFO]: thaisgamer joined the game
+[00:54:00] [Server thread/INFO]: add_player wand
+[00:54:00] [Server thread/INFO]: player_data {}
+[00:54:00] [Server thread/INFO]: Sending item configs to client
+[00:54:01] [Server thread/INFO]: Priority overwritten for player thaisgamer. Claiming: GRAVE / Robbing: INVENTORY
+[00:54:01] [Server thread/INFO]: [voicechat] Received secret request of thaisgamer (20)
+[00:54:01] [Server thread/INFO]: [voicechat] Sent secret to thaisgamer
+[00:54:01] [Server thread/INFO]: Receiving client config
+[00:54:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 84e142e9-4b8b-3a67-81d4-9a8e0d924d94
+[00:54:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 84e142e9-4b8b-3a67-81d4-9a8e0d924d94
+[00:54:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player thaisgamer (84e142e9-4b8b-3a67-81d4-9a8e0d924d94) successfully connected to voice chat
+[00:55:24] [Server thread/INFO]: Zarba[/127.99.180.100:37135] logged in with entity id 99574 at (76.36779621983648, 91.0, -257.43578354093273)
+[00:55:24] [Server thread/INFO]: Sending server config values to client
+[00:55:24] [Server thread/INFO]: Zarba joined the game
+[00:55:24] [Server thread/INFO]: add_player wand
+[00:55:24] [Server thread/INFO]: player_data {}
+[00:55:24] [Server thread/INFO]: Sending item configs to client
+[00:55:25] [Server thread/INFO]: [voicechat] Received secret request of Zarba (20)
+[00:55:25] [Server thread/INFO]: [voicechat] Sent secret to Zarba
+[00:55:26] [Server thread/INFO]: Priority overwritten for player Zarba. Claiming: GRAVE / Robbing: INVENTORY
+[00:55:26] [Server thread/INFO]: Receiving client config
+[00:55:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bec13eae-4912-32e7-9938-952565516fc8
+[00:55:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bec13eae-4912-32e7-9938-952565516fc8
+[00:55:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Zarba (bec13eae-4912-32e7-9938-952565516fc8) successfully connected to voice chat
+[00:55:36] [Server thread/INFO]: [Not Secure] <redvenomgames> eae gay
+[00:55:43] [Server thread/INFO]: [Not Secure] <Zarba> salve pau molenga
+[00:56:00] [Server thread/INFO]: [Not Secure] <redvenomgames> ele e duro para voce
+[00:56:04] [Server thread/INFO]: thaisgamer has made the advancement [Sweet Dreams]
+[00:56:05] [Server thread/INFO]: [Not Secure] <Zarba> ?????????????
+[00:57:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8176ms or 163 ticks behind
+[00:58:28] [Server thread/WARN]: Zarba moved too quickly! -3.5134798884118936,-2.0,-9.39933604273665
+[00:58:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2355ms or 47 ticks behind
+[00:58:35] [Server thread/INFO]: [Not Secure] <redvenomgames> me da adiminastro
+[00:58:37] [Server thread/WARN]: thaisgamer moved too quickly! -0.11417867275608273,1.0,-9.98205823338654
+[01:00:43] [Server thread/INFO]: JPD_211[/127.228.172.113:52661] logged in with entity id 104102 at (-227.69999998807907, 44.0, 99.48536215216504)
+[01:00:43] [Server thread/INFO]: Sending server config values to client
+[01:00:43] [Server thread/INFO]: JPD_211 joined the game
+[01:00:43] [Server thread/INFO]: add_player wand
+[01:00:43] [Server thread/INFO]: player_data {}
+[01:00:43] [Server thread/INFO]: Sending item configs to client
+[01:00:47] [Server thread/INFO]: [voicechat] Received secret request of JPD_211 (20)
+[01:00:47] [Server thread/INFO]: [voicechat] Sent secret to JPD_211
+[01:00:48] [Server thread/INFO]: Priority overwritten for player JPD_211. Claiming: GRAVE / Robbing: INVENTORY
+[01:00:50] [Server thread/INFO]: Receiving client config
+[01:01:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 80793566-95cb-3655-af9d-93842bdbc4cb
+[01:01:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 80793566-95cb-3655-af9d-93842bdbc4cb
+[01:01:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player JPD_211 (80793566-95cb-3655-af9d-93842bdbc4cb) successfully connected to voice chat
+[01:03:31] [Server thread/WARN]: Zarba moved too quickly! -9.791569153656383,-0.12160004615783748,-2.248257275711694
+[01:03:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2545ms or 50 ticks behind
+[01:03:54] [Server thread/INFO]: Freschiii has made the advancement [We Need to Go Deeper]
+[01:04:31] [Server thread/INFO]: Freschiii has made the advancement [A Terrible Fortress]
+[01:04:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 80793566-95cb-3655-af9d-93842bdbc4cb timed out
+[01:04:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player JPD_211
+[01:04:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to JPD_211
+[01:04:46] [Server thread/INFO]: JPD_211 lost connection: Timed out
+[01:04:46] [Server thread/INFO]: JPD_211 left the game
+[01:04:46] [Server thread/INFO]: remove player wand
+[01:04:46] [Server thread/INFO]: [voicechat] Disconnecting client JPD_211
+[01:06:02] [Server thread/INFO]: JPD_211[/127.228.172.113:47277] logged in with entity id 109556 at (-227.69999998807907, 44.0, 99.48536215216504)
+[01:06:02] [Server thread/INFO]: Sending server config values to client
+[01:06:02] [Server thread/INFO]: JPD_211 joined the game
+[01:06:02] [Server thread/INFO]: add_player wand
+[01:06:02] [Server thread/INFO]: player_data {}
+[01:06:02] [Server thread/INFO]: Sending item configs to client
+[01:06:04] [Server thread/INFO]: [voicechat] Received secret request of JPD_211 (20)
+[01:06:04] [Server thread/INFO]: [voicechat] Sent secret to JPD_211
+[01:06:05] [Server thread/INFO]: Priority overwritten for player JPD_211. Claiming: GRAVE / Robbing: INVENTORY
+[01:06:06] [Server thread/INFO]: Receiving client config
+[01:06:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 80793566-95cb-3655-af9d-93842bdbc4cb
+[01:06:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 80793566-95cb-3655-af9d-93842bdbc4cb
+[01:06:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player JPD_211 (80793566-95cb-3655-af9d-93842bdbc4cb) successfully connected to voice chat
+[01:07:15] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:07:15] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:07:59] [Server thread/INFO]: JPD_211 has made the advancement [Barrel Booty]
+[01:08:02] [Server thread/INFO]: JPD_211 has made the advancement ['X' Marks the Spot]
+[01:08:05] [Server thread/INFO]: JPD_211 has made the advancement [Suit Up]
+[01:08:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2163ms or 43 ticks behind
+[01:08:56] [Server thread/INFO]: JPD_211 was slain by Zombie
+[01:08:56] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[01:08:56] [Server thread/ERROR]: Combo count: 2 is dual wielding: false
+[01:08:56] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
+[01:08:56] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
+[01:08:56] [Server thread/ERROR]: Selected slot server: 1 | client: 1
+[01:09:58] [Server thread/INFO]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[01:09:59] [Server thread/INFO]: Search succeeded: 2308 radius, 1275 samples
+[01:10:35] [Server thread/INFO]: The difficulty has been set to Easy
+[01:12:58] [Server thread/INFO]: Freschiii drowned
+[01:13:07] [Server thread/INFO]: Freschiii claimed a grave belonging to Freschiii at 225, 60, -204, minecraft:overworld
+[01:13:10] [Server thread/INFO]: JPD_211 claimed a grave belonging to JPD_211 at -239, 40, 93, minecraft:overworld
+[01:13:15] [Server thread/INFO]: JPD_211 has made the advancement [Monster Hunter]
+[01:13:35] [Server thread/WARN]: Xabirau moved too quickly! 8.342224077139505,1.1212968405392019,-5.473211110802211
+[01:13:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2467ms or 49 ticks behind
+[01:14:55] [Server thread/WARN]: Couldn't set damage of loot item 1 armoroftheages:bamboo_hat
+[01:16:19] [Server thread/INFO]: JPD_211 has made the advancement [Acquire Hardware]
+[01:16:28] [Server thread/INFO]: thaisgamer has made the advancement [Getting an Upgrade]
+[01:16:32] [Server thread/INFO]: JPD_211 has made the advancement [Isn't It Iron Pick]
+[01:17:57] [Server thread/INFO]: [Not Secure] <Xabirau> ./sethome casa
+[01:18:06] [Server thread/INFO]: Freschiii has made the advancement [Best Friends Forever]
+[01:19:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=304, y=74, z=-307} class_2338{x=304, y=74, z=-306}
+[01:19:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=305, y=74, z=-307} class_2338{x=304, y=74, z=-306}
+[01:19:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=306, y=74, z=-307} class_2338{x=304, y=74, z=-306}
+[01:20:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=306, y=74, z=-308} class_2338{x=304, y=74, z=-306}
+[01:20:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=304, y=74, z=-307} class_2338{x=304, y=74, z=-306}
+[01:20:33] [Server thread/INFO]: [Not Secure] <Xabirau> sirba
+[01:21:55] [Server thread/INFO]: thaisgamer has made the advancement [Isn't It Iron Pick]

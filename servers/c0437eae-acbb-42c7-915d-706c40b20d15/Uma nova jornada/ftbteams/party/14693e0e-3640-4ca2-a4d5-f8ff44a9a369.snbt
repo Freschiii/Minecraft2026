@@ -1,0 +1,49 @@
+{
+	id: "14693e0e-3640-4ca2-a4d5-f8ff44a9a369"
+	type: "party"
+	owner: "bec13eae-4912-32e7-9938-952565516fc8"
+	ranks: {
+		f113f8bd-3a62-3bdb-8707-b2c1269e06ee: "member"
+		5c885416-b06f-339a-9b09-47fb49c38fa9: "member"
+		901452c6-ac41-3fad-8685-16106a079b7a: "member"
+		45b1e2d1-e7c7-3740-be0b-c62695f5b186: "member"
+		6bd22b47-7e18-3f18-ba27-6a6348552e8e: "member"
+		7f474503-32a0-3204-b27c-b997c09b028d: "member"
+		bec13eae-4912-32e7-9938-952565516fc8: "owner"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 1b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 0b
+		"ftbchunks:block_edit_and_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+		"ftbteams:display_name": "Time dos negros"
+		"ftbteams:description": ""
+		"ftbteams:color": "#F70000"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1767578457440L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"Zarba\"],\"color\":\"yellow\"}" }
+		{ from: "bec13eae-4912-32e7-9938-952565516fc8", date: 1767578486938L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"GNLima\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1767578492114L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"GNLima\"],\"color\":\"green\"}" }
+		{ from: "bec13eae-4912-32e7-9938-952565516fc8", date: 1767578492655L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"redvenomgames\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "bec13eae-4912-32e7-9938-952565516fc8", date: 1767578498112L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"Freschiii\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1767578498550L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"redvenomgames\"],\"color\":\"green\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1767578501898L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"Freschiii\"],\"color\":\"green\"}" }
+		{ from: "bec13eae-4912-32e7-9938-952565516fc8", date: 1767580217483L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"Xabirau\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1767580230028L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"Xabirau\"],\"color\":\"green\"}" }
+		{ from: "bec13eae-4912-32e7-9938-952565516fc8", date: 1767584506360L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"MendigoRoxo\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1767584510805L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"MendigoRoxo\"],\"color\":\"green\"}" }
+		{ from: "bec13eae-4912-32e7-9938-952565516fc8", date: 1767585703787L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"Ryokiller\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1767585735643L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"Ryokiller\"],\"color\":\"green\"}" }
+	]
+	extra: { }
+}
